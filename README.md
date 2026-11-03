@@ -60,7 +60,7 @@ pip install -r requirements.txt
 | XGBoost best discrimination | CV AUROC 0.838; external B / C 0.852 / 0.857 |
 | FT-Transformer best calibration | external ECE 0.013–0.014; calibration slope ≈ 1.00 |
 | Sequence models lag | LSTM 0.59–0.63, 1D-CNN 0.68–0.69 |
-| SAPS-II / SOFA baselines | AUROC 0.63–0.66 |
+| SAPS-I / SOFA baselines | AUROC 0.63–0.66 |
 | DeLong (set A) | 15/21 pairs significant after Holm adjustment |
 | Top-15 intersection (LR∩RF∩XGB) | medianGCS, baseAge, meanHCO3, medianLactate, minBUN |
 
