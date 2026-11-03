@@ -40,7 +40,7 @@ upload_code/
 │                         #   (--smoke = 2-fold/3-epoch quick validation)
 ├── fig.py                # generates the 6 publication figures from the outputs
 ├── data/
-│   └── completedone1.csv # source dataset (12,000 x 81)
+│   └── ICU_data.csv # source dataset (12,000 x 81)
 
 ```
 
